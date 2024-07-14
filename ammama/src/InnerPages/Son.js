@@ -4,9 +4,10 @@ import { Link } from 'react-router-dom'
 function Son() {
   return (
     <div>
-      sundaran
-      <Link to="/me
+         <Link to="/me
     ">  <button>back</button></Link>
+    <div> --son------- sundaran</div>
+    <Link to="/thank"><button>Next</button></Link>
     </div>
   )
 }
