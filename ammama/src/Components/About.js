@@ -6,7 +6,8 @@ import { Link } from 'react-router-dom'
 function About() {
   return (
     <div>
-     
+      <Link to="/
+    "><button>back</button></Link>
       <h1>A LITTLE ABOUT ME</h1>
       <p> I am a digital nomad currently
 based in Hong Kong. I've been
